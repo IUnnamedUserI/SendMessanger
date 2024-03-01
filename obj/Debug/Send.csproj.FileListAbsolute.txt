@@ -1,0 +1,116 @@
+C:\Users\89640\source\repos\Send\Send\bin\Debug\Send.exe.config
+C:\Users\89640\source\repos\Send\Send\bin\Debug\Send.exe
+C:\Users\89640\source\repos\Send\Send\bin\Debug\Send.pdb
+C:\Users\89640\source\repos\Send\Send\obj\Debug\Send.csprojAssemblyReference.cache
+C:\Users\89640\source\repos\Send\Send\obj\Debug\Send.Authorization.resources
+C:\Users\89640\source\repos\Send\Send\obj\Debug\Send.Properties.Resources.resources
+C:\Users\89640\source\repos\Send\Send\obj\Debug\Send.csproj.GenerateResource.cache
+C:\Users\89640\source\repos\Send\Send\obj\Debug\Send.csproj.CoreCompileInputs.cache
+C:\Users\89640\source\repos\Send\Send\obj\Debug\Send.exe
+C:\Users\89640\source\repos\Send\Send\obj\Debug\Send.pdb
+C:\Users\89640\source\repos\Send\Send\obj\Debug\Send.Messages.resources
+C:\Users\89640\source\repos\Send\Send\obj\Debug\Send.Registration.resources
+C:\Users\89640\source\repos\Send\Send\obj\Debug\Send.ForgorPassword.resources
+C:\Users\89640\source\repos\Send\Send\obj\Debug\Send.AddFriend.resources
+C:\Users\89640\source\repos\Send\Send\obj\Debug\Send.Settings.resources
+C:\Users\89640\source\repos\Send\Send\obj\Debug\Send.UserProfile.resources
+C:\Users\89640\source\repos\Send\Send\obj\Debug\Send.FriendProfile.resources
+C:\Users\89640\source\repos\Send 2.0\Send\obj\Debug\Send.AddFriend.resources
+C:\Users\89640\source\repos\Send 2.0\Send\obj\Debug\Send.Authorization.resources
+C:\Users\89640\source\repos\Send 2.0\Send\obj\Debug\Send.ForgorPassword.resources
+C:\Users\89640\source\repos\Send 2.0\Send\obj\Debug\Send.Properties.Resources.resources
+C:\Users\89640\source\repos\Send 2.0\Send\obj\Debug\Send.Registration.resources
+C:\Users\89640\source\repos\Send 2.0\Send\obj\Debug\Send.Settings.resources
+C:\Users\89640\source\repos\Send 2.0\Send\obj\Debug\Send.UserProfile.resources
+C:\Users\89640\source\repos\Send 2.0\Send\obj\Debug\Send.csproj.GenerateResource.cache
+C:\Users\89640\source\repos\Send 2.0\Send\obj\Debug\Send.csproj.CoreCompileInputs.cache
+C:\Users\89640\source\repos\Send 2.0\Send\obj\Debug\Send.exe
+C:\Users\89640\source\repos\Send 2.0\Send\obj\Debug\Send.pdb
+C:\Users\89640\source\repos\Send 2.0\Send\bin\Debug\Send.exe.config
+C:\Users\89640\source\repos\Send 2.0\Send\bin\Debug\Send.exe
+C:\Users\89640\source\repos\Send 2.0\Send\bin\Debug\Send.pdb
+C:\Users\89640\source\repos\Send 2.0\Send\obj\Debug\Send.Profile.resources
+C:\Users\89640\source\repos\Send 2.0\Send\obj\Debug\Send.StartPanel.resources
+C:\Users\89640\source\repos\Send 2.0\Send\obj\Debug\Send.Message.resources
+C:\Users\89640\source\repos\Send 2.0\Send\obj\Debug\Send.FriendList.resources
+C:\Users\89640\source\repos\Send 2.0\Send\obj\Debug\Send.Friends.resources
+C:\Users\89640\source\repos\Send 2.0\Send\obj\Debug\Send.MainForm.resources
+C:\Users\89640\source\repos\Send 2.0\Send\obj\Debug\Send.IncomingQuerys.resources
+C:\Users\89640\source\repos\Send 2.0\Send\obj\Debug\Send.SendQuery.resources
+C:\Users\89640\source\repos\Send 2.0\Send\obj\Debug\Send.RegistrationSuccess.resources
+C:\Users\89640\source\repos\Send 2.0\Send\obj\Debug\Send.Пользовательские_элементы_управления.OutcomingQuerys.resources
+C:\Users\89640\source\repos\Send 2.0\Send\obj\Debug\Send.csprojAssemblyReference.cache
+D:\Курсовой проект\Send 2.0\Send\bin\Debug\Send.exe.config
+D:\Курсовой проект\Send 2.0\Send\bin\Debug\Send.exe
+D:\Курсовой проект\Send 2.0\Send\bin\Debug\Send.pdb
+D:\Курсовой проект\Send 2.0\Send\obj\Debug\Send.Authorization.resources
+D:\Курсовой проект\Send 2.0\Send\obj\Debug\Send.Registration.resources
+D:\Курсовой проект\Send 2.0\Send\obj\Debug\Send.RegistrationSuccess.resources
+D:\Курсовой проект\Send 2.0\Send\obj\Debug\Send.FriendList.resources
+D:\Курсовой проект\Send 2.0\Send\obj\Debug\Send.Friends.resources
+D:\Курсовой проект\Send 2.0\Send\obj\Debug\Send.IncomingQuerys.resources
+D:\Курсовой проект\Send 2.0\Send\obj\Debug\Send.Message.resources
+D:\Курсовой проект\Send 2.0\Send\obj\Debug\Send.MainForm.resources
+D:\Курсовой проект\Send 2.0\Send\obj\Debug\Send.Пользовательские_элементы_управления.OutcomingQuerys.resources
+D:\Курсовой проект\Send 2.0\Send\obj\Debug\Send.Profile.resources
+D:\Курсовой проект\Send 2.0\Send\obj\Debug\Send.Properties.Resources.resources
+D:\Курсовой проект\Send 2.0\Send\obj\Debug\Send.SendQuery.resources
+D:\Курсовой проект\Send 2.0\Send\obj\Debug\Send.StartPanel.resources
+D:\Курсовой проект\Send 2.0\Send\obj\Debug\Send.csproj.GenerateResource.cache
+D:\Курсовой проект\Send 2.0\Send\obj\Debug\Send.csproj.CoreCompileInputs.cache
+D:\Курсовой проект\Send 2.0\Send\obj\Debug\Send.exe
+D:\Курсовой проект\Send 2.0\Send\obj\Debug\Send.pdb
+E:\Курсовой проект\Send 2.0\Send\obj\Debug\Send.Authorization.resources
+E:\Курсовой проект\Send 2.0\Send\obj\Debug\Send.Registration.resources
+E:\Курсовой проект\Send 2.0\Send\obj\Debug\Send.RegistrationSuccess.resources
+E:\Курсовой проект\Send 2.0\Send\obj\Debug\Send.FriendList.resources
+E:\Курсовой проект\Send 2.0\Send\obj\Debug\Send.Friends.resources
+E:\Курсовой проект\Send 2.0\Send\obj\Debug\Send.IncomingQuerys.resources
+E:\Курсовой проект\Send 2.0\Send\obj\Debug\Send.Message.resources
+E:\Курсовой проект\Send 2.0\Send\obj\Debug\Send.MainForm.resources
+E:\Курсовой проект\Send 2.0\Send\obj\Debug\Send.Пользовательские_элементы_управления.OutcomingQuerys.resources
+E:\Курсовой проект\Send 2.0\Send\obj\Debug\Send.Profile.resources
+E:\Курсовой проект\Send 2.0\Send\obj\Debug\Send.Properties.Resources.resources
+E:\Курсовой проект\Send 2.0\Send\obj\Debug\Send.SendQuery.resources
+E:\Курсовой проект\Send 2.0\Send\obj\Debug\Send.StartPanel.resources
+E:\Курсовой проект\Send 2.0\Send\obj\Debug\Send.csproj.GenerateResource.cache
+E:\Курсовой проект\Send 2.0\Send\obj\Debug\Send.csproj.CoreCompileInputs.cache
+E:\Курсовой проект\Send 2.0\Send\obj\Debug\Send.exe
+E:\Курсовой проект\Send 2.0\Send\obj\Debug\Send.pdb
+E:\Курсовой проект\Send 2.0\Send\bin\Debug\Send.exe.config
+E:\Курсовой проект\Send 2.0\Send\bin\Debug\Send.exe
+E:\Курсовой проект\Send 2.0\Send\bin\Debug\Send.pdb
+E:\Курсовой проект\Send 2.0\Send\obj\Debug\Send.Пользовательские_элементы_управления.MessagePanel.resources
+E:\Курсовой проект\Send 2.0\Send\obj\Debug\Send.Пользовательские_элементы_управления.UserProfile.resources
+E:\Курсовой проект\Send 2.0\Send\obj\Debug\Send.EditProfile.resources
+E:\Курсовой проект\Send 2.0\Send\obj\Debug\Send.ChangeUserImage.resources
+E:\Курсовой проект\Send 2.0\Send\obj\Debug\Send.ChangeName.resources
+E:\Курсовой проект\Send 2.0\Send\obj\Debug\Send.ChangeNameList.resources
+E:\Курсовой проект\Send 2.0\Send\obj\Debug\Send.VoteForm.resources
+E:\Курсовой проект\Send 2.0\Send\obj\Debug\Send.Пользовательские_элементы_управления.ModeratorScreen.resources
+E:\Курсовой проект\Send 2.0\Send\obj\Debug\Send.Пользовательские_элементы_управления.ChangeNameQueryList.resources
+E:\Курсовой проект\Send 2.0\Send\obj\Debug\Send.Пользовательские_элементы_управления.VoteList.resources
+E:\Курсовой проект\Send 2.0\Send\obj\Debug\Send.OpenImage.resources
+E:\Курсовой проект\Send 2.0\Send\obj\Debug\Send.Пользовательские_элементы_управления.ChangeGroupSettings.resources
+E:\Курсовой проект\Send 2.0\Send\obj\Debug\Send.Пользовательские_элементы_управления.GroupPanel.resources
+D:\Курсовой проект\Send 2.0\Send\obj\Debug\Send.ChangeName.resources
+D:\Курсовой проект\Send 2.0\Send\obj\Debug\Send.OpenImage.resources
+D:\Курсовой проект\Send 2.0\Send\obj\Debug\Send.VoteForm.resources
+D:\Курсовой проект\Send 2.0\Send\obj\Debug\Send.Пользовательские_элементы_управления.ChangeGroupSettings.resources
+D:\Курсовой проект\Send 2.0\Send\obj\Debug\Send.ChangeNameList.resources
+D:\Курсовой проект\Send 2.0\Send\obj\Debug\Send.ChangeUserImage.resources
+D:\Курсовой проект\Send 2.0\Send\obj\Debug\Send.Пользовательские_элементы_управления.ChangeNameQueryList.resources
+D:\Курсовой проект\Send 2.0\Send\obj\Debug\Send.Пользовательские_элементы_управления.GroupPanel.resources
+D:\Курсовой проект\Send 2.0\Send\obj\Debug\Send.Пользовательские_элементы_управления.MessagePanel.resources
+D:\Курсовой проект\Send 2.0\Send\obj\Debug\Send.Пользовательские_элементы_управления.ModeratorScreen.resources
+D:\Курсовой проект\Send 2.0\Send\obj\Debug\Send.Пользовательские_элементы_управления.UserProfile.resources
+D:\Курсовой проект\Send 2.0\Send\obj\Debug\Send.Пользовательские_элементы_управления.VoteList.resources
+D:\Курсовой проект\Send 2.0\Send\obj\Debug\Send.EditProfile.resources
+D:\Курсовой проект\Send 2.0\Send\obj\Debug\Send.csprojAssemblyReference.cache
+D:\Курсовой проект\Send 2.0\Send\obj\Debug\Send.Пользовательские_элементы_управления.AddUserInGroup.resources
+E:\Курсовой проект\Send 2.0\Send\obj\Debug\Send.Пользовательские_элементы_управления.AddUserInGroup.resources
+E:\Курсовой проект\Send 2.0\Send\obj\Debug\Send.Пользовательские_элементы_управления.MailConfirm.resources
+E:\Курсовой проект\Send 2.0\Send\obj\Debug\Send.ChangeLog.resources
+E:\Курсовой проект\Send 2.0\Send\obj\Debug\Send.csprojAssemblyReference.cache
+D:\Курсовой проект\Send 2.0\Send\obj\Debug\Send.ChangeLog.resources
+D:\Курсовой проект\Send 2.0\Send\obj\Debug\Send.Пользовательские_элементы_управления.MailConfirm.resources

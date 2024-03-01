@@ -1,0 +1,361 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{6400401D-F603-4B22-BEC4-7A67229BB845}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Send</RootNamespace>
+    <AssemblyName>Send</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Authorization.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Authorization.Designer.cs">
+      <DependentUpon>Authorization.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ChangeLog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChangeLog.Designer.cs">
+      <DependentUpon>ChangeLog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ChangeName.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChangeName.Designer.cs">
+      <DependentUpon>ChangeName.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OpenImage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OpenImage.Designer.cs">
+      <DependentUpon>OpenImage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VoteForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VoteForm.Designer.cs">
+      <DependentUpon>VoteForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Пользовательские элементы управления\AddUserInGroup.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Пользовательские элементы управления\AddUserInGroup.Designer.cs">
+      <DependentUpon>AddUserInGroup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Пользовательские элементы управления\ChangeGroupSettings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Пользовательские элементы управления\ChangeGroupSettings.Designer.cs">
+      <DependentUpon>ChangeGroupSettings.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Пользовательские элементы управления\ChangeNameList.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Пользовательские элементы управления\ChangeNameList.Designer.cs">
+      <DependentUpon>ChangeNameList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ChangeUserImage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChangeUserImage.Designer.cs">
+      <DependentUpon>ChangeUserImage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Пользовательские элементы управления\ChangeNameQueryList.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Пользовательские элементы управления\ChangeNameQueryList.Designer.cs">
+      <DependentUpon>ChangeNameQueryList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Registration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Registration.Designer.cs">
+      <DependentUpon>Registration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RegistrationSuccess.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegistrationSuccess.Designer.cs">
+      <DependentUpon>RegistrationSuccess.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Пользовательские элементы управления\EditProfile.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Пользовательские элементы управления\EditProfile.Designer.cs">
+      <DependentUpon>EditProfile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Пользовательские элементы управления\FriendList.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Пользовательские элементы управления\FriendList.Designer.cs">
+      <DependentUpon>FriendList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Пользовательские элементы управления\Friends.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Пользовательские элементы управления\Friends.Designer.cs">
+      <DependentUpon>Friends.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Пользовательские элементы управления\GroupChat.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Пользовательские элементы управления\GroupChat.Designer.cs">
+      <DependentUpon>GroupChat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Пользовательские элементы управления\IncomingQuerys.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Пользовательские элементы управления\IncomingQuerys.Designer.cs">
+      <DependentUpon>IncomingQuerys.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MailConfirm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MailConfirm.Designer.cs">
+      <DependentUpon>MailConfirm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Пользовательские элементы управления\Message.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Пользовательские элементы управления\Message.Designer.cs">
+      <DependentUpon>Message.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Пользовательские элементы управления\MessagePanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Пользовательские элементы управления\MessagePanel.Designer.cs">
+      <DependentUpon>MessagePanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Пользовательские элементы управления\ModeratorScreen.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Пользовательские элементы управления\ModeratorScreen.Designer.cs">
+      <DependentUpon>ModeratorScreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Пользовательские элементы управления\OutcomingQuerys.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Пользовательские элементы управления\OutcomingQuerys.Designer.cs">
+      <DependentUpon>OutcomingQuerys.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Пользовательские элементы управления\Profile.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Пользовательские элементы управления\Profile.Designer.cs">
+      <DependentUpon>Profile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Пользовательские элементы управления\SendQuery.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Пользовательские элементы управления\SendQuery.Designer.cs">
+      <DependentUpon>SendQuery.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Пользовательские элементы управления\StartPanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Пользовательские элементы управления\StartPanel.Designer.cs">
+      <DependentUpon>StartPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Пользовательские элементы управления\UserProfile.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Пользовательские элементы управления\UserProfile.Designer.cs">
+      <DependentUpon>UserProfile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Пользовательские элементы управления\VoteList.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Пользовательские элементы управления\VoteList.Designer.cs">
+      <DependentUpon>VoteList.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Authorization.resx">
+      <DependentUpon>Authorization.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChangeLog.resx">
+      <DependentUpon>ChangeLog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChangeName.resx">
+      <DependentUpon>ChangeName.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OpenImage.resx">
+      <DependentUpon>OpenImage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VoteForm.resx">
+      <DependentUpon>VoteForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Пользовательские элементы управления\AddUserInGroup.resx">
+      <DependentUpon>AddUserInGroup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Пользовательские элементы управления\ChangeGroupSettings.resx">
+      <DependentUpon>ChangeGroupSettings.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Пользовательские элементы управления\ChangeNameList.resx">
+      <DependentUpon>ChangeNameList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChangeUserImage.resx">
+      <DependentUpon>ChangeUserImage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Пользовательские элементы управления\ChangeNameQueryList.resx">
+      <DependentUpon>ChangeNameQueryList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Registration.resx">
+      <DependentUpon>Registration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegistrationSuccess.resx">
+      <DependentUpon>RegistrationSuccess.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Пользовательские элементы управления\EditProfile.resx">
+      <DependentUpon>EditProfile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Пользовательские элементы управления\FriendList.resx">
+      <DependentUpon>FriendList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Пользовательские элементы управления\Friends.resx">
+      <DependentUpon>Friends.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Пользовательские элементы управления\GroupChat.resx">
+      <DependentUpon>GroupChat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Пользовательские элементы управления\IncomingQuerys.resx">
+      <DependentUpon>IncomingQuerys.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MailConfirm.resx">
+      <DependentUpon>MailConfirm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Пользовательские элементы управления\Message.resx">
+      <DependentUpon>Message.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Пользовательские элементы управления\MessagePanel.resx">
+      <DependentUpon>MessagePanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Пользовательские элементы управления\ModeratorScreen.resx">
+      <DependentUpon>ModeratorScreen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Пользовательские элементы управления\OutcomingQuerys.resx">
+      <DependentUpon>OutcomingQuerys.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Пользовательские элементы управления\Profile.resx">
+      <DependentUpon>Profile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Пользовательские элементы управления\SendQuery.resx">
+      <DependentUpon>SendQuery.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Пользовательские элементы управления\StartPanel.resx">
+      <DependentUpon>StartPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Пользовательские элементы управления\UserProfile.resx">
+      <DependentUpon>UserProfile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Пользовательские элементы управления\VoteList.resx">
+      <DependentUpon>VoteList.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DefaultIcon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cogwheel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\173f243d36aa684370a70e87f8b31abf.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Включить.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Выключить.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Круг.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Точка в круге.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Закрытый глаз.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Замок.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Открытый глаз.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Закрытый_глаз.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
